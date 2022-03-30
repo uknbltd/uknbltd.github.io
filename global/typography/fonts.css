@@ -1,0 +1,213 @@
+/*
+	This font software is the property of Commercial Type.
+
+	You may not modify the font software, use it on another website, or install it on a computer.
+
+	License information is available at http://commercialtype.com/eula
+	For more information please visit Commercial Type at http://commercialtype.com or email us at info[at]commercialtype.com
+
+	Copyright (C) 2013 Schwartzco Inc.
+	
+*/
+
+
+	.ultra-thin-italic {
+	font-family: 'SC Sans Web';
+	font-weight: 100;
+	font-style: italic;
+	font-stretch: normal;
+	}
+
+	.light-italic {
+	font-family: 'SC Sans Web';
+	font-weight: 300;
+	font-style: italic;
+	font-stretch: normal;
+	}
+
+	.thin {
+	font-family: 'SC Sans Web';
+	font-weight: 200;
+	font-style: normal;
+	font-stretch: normal;
+	}
+
+	.regular {
+	font-family: 'SC Sans Web';
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	}
+
+	.ultra-thin {
+	font-family: 'SC Sans Web';
+	font-weight: 100;
+	font-style: normal;
+	font-stretch: normal;
+	}
+
+	.thin-italic {
+	font-family: 'SC Sans Web';
+	font-weight: 200;
+	font-style: italic;
+	font-stretch: normal;
+	}
+
+	.bold {
+	font-family: 'SC Sans Web';
+	font-weight: 700;
+	font-style: normal;
+	font-stretch: normal;
+	}
+
+	.italic {
+	font-family: 'SC Sans Web';
+	font-weight: 400;
+	font-style: italic;
+	font-stretch: normal;
+	}
+
+	.light {
+	font-family: 'SC Sans Web';
+	font-weight: 300;
+	font-style: normal;
+	font-stretch: normal;
+	}
+
+	.bold-italic {
+	font-family: 'SC Sans Web';
+	font-weight: 700;
+	font-style: italic;
+	font-stretch: normal;
+	}
+
+	@font-face {
+	font-family: 'SC Sans Web';
+	src: url('sc-sans-web-ultra-thin-italic.eot');
+	src: url('sc-sans-web-ultra-thin-italic-.eot#iefix') format('embedded-opentype'),
+		 url('sc-sans-web-ultra-thin-italic.woff2') format('woff2'),
+		 url('sc-sans-web-ultra-thin-italic.woff') format('woff'),
+		 url('sc-sans-web-ultra-thin-italic.ttf') format('truetype'),
+		 url('sc-sans-web-ultra-thin-italic.svg#sc-sans-web-ultra-thin-italic') format('svg');
+	font-weight: 100;
+	font-style: italic;
+	font-stretch: normal;
+	}
+
+	@font-face {
+	font-family: 'SC Sans Web';
+	src: url('sc-sans-web-light-italic.eot');
+	src: url('sc-sans-web-light-italic-.eot#iefix') format('embedded-opentype'),
+		 url('sc-sans-web-light-italic.woff2') format('woff2'),
+		 url('sc-sans-web-light-italic.woff') format('woff'),
+		 url('sc-sans-web-light-italic.ttf') format('truetype'),
+		 url('sc-sans-web-light-italic.svg#sc-sans-web-light-italic') format('svg');
+	font-weight: 300;
+	font-style: italic;
+	font-stretch: normal;
+	}
+
+	@font-face {
+	font-family: 'SC Sans Web';
+	src: url('sc-sans-web-thin.eot');
+	src: url('sc-sans-web-thin-.eot#iefix') format('embedded-opentype'),
+		 url('sc-sans-web-thin.woff2') format('woff2'),
+		 url('sc-sans-web-thin.woff') format('woff'),
+		 url('sc-sans-web-thin.ttf') format('truetype'),
+		 url('sc-sans-web-thin.svg#sc-sans-web-thin') format('svg');
+	font-weight: 200;
+	font-style: normal;
+	font-stretch: normal;
+	}
+
+	@font-face {
+	font-family: 'SC Sans Web';
+	src: url('sc-sans-web-regular.eot');
+	src: url('sc-sans-web-regular-.eot#iefix') format('embedded-opentype'),
+		 url('sc-sans-web-regular.woff2') format('woff2'),
+		 url('sc-sans-web-regular.woff') format('woff'),
+		 url('sc-sans-web-regular.ttf') format('truetype'),
+		 url('sc-sans-web-regular.svg#sc-sans-web-regular') format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	}
+
+	@font-face {
+	font-family: 'SC Sans Web';
+	src: url('sc-sans-web-ultra-thin.eot');
+	src: url('sc-sans-web-ultra-thin-.eot#iefix') format('embedded-opentype'),
+		 url('sc-sans-web-ultra-thin.woff2') format('woff2'),
+		 url('sc-sans-web-ultra-thin.woff') format('woff'),
+		 url('sc-sans-web-ultra-thin.ttf') format('truetype'),
+		 url('sc-sans-web-ultra-thin.svg#sc-sans-web-ultra-thin') format('svg');
+	font-weight: 100;
+	font-style: normal;
+	font-stretch: normal;
+	}
+
+	@font-face {
+	font-family: 'SC Sans Web';
+	src: url('sc-sans-web-thin-italic.eot');
+	src: url('sc-sans-web-thin-italic-.eot#iefix') format('embedded-opentype'),
+		 url('sc-sans-web-thin-italic.woff2') format('woff2'),
+		 url('sc-sans-web-thin-italic.woff') format('woff'),
+		 url('sc-sans-web-thin-italic.ttf') format('truetype'),
+		 url('sc-sans-web-thin-italic.svg#sc-sans-web-thin-italic') format('svg');
+	font-weight: 200;
+	font-style: italic;
+	font-stretch: normal;
+	}
+
+	@font-face {
+	font-family: 'SC Sans Web';
+	src: url('sc-sans-web-bold.eot');
+	src: url('sc-sans-web-bold-.eot#iefix') format('embedded-opentype'),
+		 url('sc-sans-web-bold.woff2') format('woff2'),
+		 url('sc-sans-web-bold.woff') format('woff'),
+		 url('sc-sans-web-bold.ttf') format('truetype'),
+		 url('sc-sans-web-bold.svg#sc-sans-web-bold') format('svg');
+	font-weight: 700;
+	font-style: normal;
+	font-stretch: normal;
+	}
+
+	@font-face {
+	font-family: 'SC Sans Web';
+	src: url('sc-sans-web-italic.eot');
+	src: url('sc-sans-web-italic-.eot#iefix') format('embedded-opentype'),
+		 url('sc-sans-web-italic.woff2') format('woff2'),
+		 url('sc-sans-web-italic.woff') format('woff'),
+		 url('sc-sans-web-italic.ttf') format('truetype'),
+		 url('sc-sans-web-italic.svg#sc-sans-web-italic') format('svg');
+	font-weight: 400;
+	font-style: italic;
+	font-stretch: normal;
+	}
+
+	@font-face {
+	font-family: 'SC Sans Web';
+	src: url('sc-sans-web-light.eot');
+	src: url('sc-sans-web-light-.eot#iefix') format('embedded-opentype'),
+		 url('sc-sans-web-light.woff2') format('woff2'),
+		 url('sc-sans-web-light.woff') format('woff'),
+		 url('sc-sans-web-light.ttf') format('truetype'),
+		 url('sc-sans-web-light.svg#sc-sans-web-light') format('svg');
+	font-weight: 300;
+	font-style: normal;
+	font-stretch: normal;
+	}
+
+	@font-face {
+	font-family: 'SC Sans Web';
+	src: url('sc-sans-web-bold-italic.eot');
+	src: url('sc-sans-web-bold-italic-.eot#iefix') format('embedded-opentype'),
+		 url('sc-sans-web-bold-italic.woff2') format('woff2'),
+		 url('sc-sans-web-bold-italic.woff') format('woff'),
+		 url('sc-sans-web-bold-italic.ttf') format('truetype'),
+		 url('sc-sans-web-bold-italic.svg#sc-sans-web-bold-italic') format('svg');
+	font-weight: 700;
+	font-style: italic;
+	font-stretch: normal;
+	}
+/* Localized */
